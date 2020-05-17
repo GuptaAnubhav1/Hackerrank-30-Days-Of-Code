@@ -5,4 +5,4 @@ input_string = input()
 print('Hello, World.')
 print(input_string)
 
-# TODO: Write a line of code here that prints the contents of input_string to stdout.
+# TODO: Write a line of code here that prints the contents of input_string to stdout

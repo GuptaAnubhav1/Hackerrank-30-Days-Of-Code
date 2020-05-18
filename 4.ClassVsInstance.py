@@ -26,6 +26,7 @@ for i in range(0, t):
     p = Person(age)  
     p.amIOld()
     for j in range(0, 3):
+        
         p.yearPasses()       
     p.amIOld()
     print("")
